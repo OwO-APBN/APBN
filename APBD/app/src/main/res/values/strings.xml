@@ -1,3 +1,5 @@
 <resources>
     <string name="app_name">APBD</string>
+    <string name="hai_name_">Hello User</string>
+    <string name="income">income</string>
 </resources>

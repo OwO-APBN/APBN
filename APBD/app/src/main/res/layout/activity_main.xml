@@ -8,6 +8,60 @@
     android:background="#06D6A0">
 
 
+    <TextView
+        android:id="@+id/hai_name_"
+        android:layout_width="112dp"
+        android:layout_height="28dp"
+        android:layout_alignParentLeft="true"
+        android:layout_alignParentTop="true"
+        android:layout_marginLeft="42dp"
+        android:layout_marginTop="54dp"
+        android:gravity="center_horizontal|top"
+        android:text="@string/hai_name_"
+        android:textAppearance="@style/hai_name_" />
+    <View
+
+        android:id="@+id/rectangles"
+        android:layout_width="159dp"
+        android:layout_height="109dp"
+        android:background="@drawable/shape"
+        android:layout_alignParentLeft="true"
+        android:layout_marginLeft="28dp"
+        android:layout_alignParentTop="true"
+        android:layout_marginTop="99dp"
+
+        />
+    <TextView
+        android:id="@+id/income"
+        android:layout_width="61dp"
+        android:layout_height="21dp"
+        android:layout_alignParentLeft="true"
+        android:layout_marginLeft="77dp"
+        android:layout_alignParentTop="true"
+        android:layout_marginTop="122dp"
+        android:text="@string/income"
+        android:textAppearance="@style/income"
+        android:gravity="center_horizontal|top"
+        />
+
+
+    <View
+
+        android:id="@+id/group_32"
+        android:layout_width="411dp"
+        android:layout_height="73dp"
+        android:layout_alignParentLeft="true"
+        android:layout_alignParentBottom="true"
+        android:background="#26547C"
+        />
+
+    <ImageButton
+        android:id="@+id/imageButton2"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        app:srcCompat="@drawable/Dashboard" />
 
 
 </RelativeLayout>
+
+
