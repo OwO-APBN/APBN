@@ -81,12 +81,4 @@
         app:rippleColor="@color/white"
         tools:cornerRadius="12" />
 
-    <ImageView
-        android:id="@+id/imageView"
-        android:layout_width="wrap_content"
-        android:layout_height="wrap_content"
-        app:srcCompat="@drawable/icon"
-        tools:layout_editor_absoluteX="141dp"
-        tools:layout_editor_absoluteY="174dp" />
-
 </androidx.constraintlayout.widget.ConstraintLayout>
